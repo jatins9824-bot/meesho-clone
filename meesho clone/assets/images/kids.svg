@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fff7ed"/><stop offset="100%" stop-color="#ffedd5"/></linearGradient>
+  </defs>
+  <rect width="400" height="420" fill="url(#bg)"/>
+  <ellipse cx="200" cy="358" rx="115" ry="15" fill="#f2d5b6"/>
+  <!-- Festive Kids Kurta -->
+  <path d="M128 82 L88 106 L65 170 L98 184 L115 135 L115 268 L225 268 L225 135 L242 184 L275 170 L252 106 L212 82 Q170 100 128 82 Z" fill="#f59e0b"/>
+  <rect x="164" y="96" width="12" height="72" rx="4" fill="#fffbeb"/>
+  <!-- Kids Frock / Pajama -->
+  <path d="M225 180 L285 180 L325 320 L195 320 Z" fill="#ec4899"/>
+  <path d="M225 180 L285 180 L278 212 L232 212 Z" fill="#db2777"/>
+  <circle cx="242" cy="275" r="7" fill="#fde047"/><circle cx="275" cy="288" r="7" fill="#fde047"/><circle cx="260" cy="250" r="6" fill="#fde047"/>
+</svg>

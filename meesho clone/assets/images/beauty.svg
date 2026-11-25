@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fdf2f8"/><stop offset="100%" stop-color="#fce7f3"/></linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f7d694"/><stop offset="100%" stop-color="#c98b4b"/></linearGradient>
+  </defs>
+  <rect width="400" height="420" fill="url(#bg)"/>
+  <ellipse cx="200" cy="355" rx="125" ry="16" fill="#ecc9dd"/>
+  <!-- Serum Bottle -->
+  <rect x="225" y="150" width="76" height="175" rx="12" fill="#f59e0b" fill-opacity="0.88"/>
+  <rect x="235" y="190" width="56" height="90" rx="6" fill="#fffaf0"/>
+  <rect x="249" y="118" width="28" height="32" rx="4" fill="url(#gold)"/>
+  <rect x="255" y="88" width="16" height="32" rx="8" fill="#353543"/>
+  <!-- Lipstick -->
+  <rect x="108" y="210" width="44" height="120" rx="6" fill="url(#gold)"/>
+  <path d="M116 210 L116 150 Q130 128 144 150 L144 210 Z" fill="#be185d"/>
+  <!-- Compact -->
+  <ellipse cx="185" cy="322" rx="56" ry="20" fill="url(#gold)"/>
+  <ellipse cx="185" cy="316" rx="48" ry="15" fill="#f3d0c7"/>
+</svg>
